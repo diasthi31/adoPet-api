@@ -1,7 +1,6 @@
 package br.com.alura.service;
 
 import br.com.alura.client.ClientHttpConfiguration;
-import br.com.alura.domain.Pet;
 import org.junit.jupiter.api.Test;
 
 import java.io.ByteArrayInputStream;
